@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* background: #B8D8BA; */
+    background: #CFBFF7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.statusBox {
+    border: 1.5px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
